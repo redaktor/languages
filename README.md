@@ -7,7 +7,7 @@ Language Detection<br>
 
 # redaktor-languages
 
-#Know Your Language TypeScript
+# Know Your Language TypeScript
 
 
 
