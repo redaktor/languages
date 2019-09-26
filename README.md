@@ -37,7 +37,7 @@ You can use it in the browser as well – <br>
 For client side use you should narrow down the default languages to those you support.<br>
 See [./build/Language/fingerprints](https://github.com/redaktor/languages/tree/master/build/Language/fingerprints) for all languages.
 
-###Default settings
+### Default settings
 ```javascript
 constructor (
   // maximum for detection results
