@@ -1,0 +1,1 @@
+{"version":3,"file":"pony.js","sourceRoot":"","sources":["../../../../src/Language/meta/machine/pony.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,MAAM,IAAI,GAAG;QACZ,IAAI,EAAE,WAAW;QACjB,IAAI,EAAE,MAAM;QACZ,IAAI,EAAE,aAAa;QACnB,UAAU,EAAE,GAAG;QACf,UAAU,EAAE,CAAC,OAAO,CAAC;QACrB,OAAO,EAAE,MAAM;QACf,OAAO,EAAE,aAAa;KACtB,CAAC;IACF,kBAAe,IAAI,CAAC"}

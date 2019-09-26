@@ -1,0 +1,1 @@
+{"version":3,"file":"ts.js","sourceRoot":"","sources":["../../../../src/Language/meta/natural/ts.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,qCAAiC;IACjC,kBAAe,cAAO,CAAC;QACrB,IAAI,EAAE,QAAQ;QACd,KAAK,EAAE,UAAU;QACjB,IAAI,EAAE,IAAI;QACV,IAAI,EAAE,KAAK;QACX,IAAI,EAAE,KAAK;QACX,IAAI,EAAE,iBAAiB;QACvB,EAAE,EAAE,KAAK;QACT,KAAK,EAAE,8EAA8E;QACrF,SAAS,EAAE,IAAI;KAChB,CAAC,CAAC"}

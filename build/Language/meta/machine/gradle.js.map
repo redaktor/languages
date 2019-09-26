@@ -1,0 +1,1 @@
+{"version":3,"file":"gradle.js","sourceRoot":"","sources":["../../../../src/Language/meta/machine/gradle.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,MAAM,IAAI,GAAG;QACZ,IAAI,EAAE,QAAQ;QACd,IAAI,EAAE,QAAQ;QACd,IAAI,EAAE,MAAM;QACZ,UAAU,EAAE,GAAG;QACf,UAAU,EAAE,CAAC,SAAS,CAAC;QACvB,OAAO,EAAE,MAAM;QACf,OAAO,EAAE,sBAAsB;KAC/B,CAAC;IACF,kBAAe,IAAI,CAAC"}

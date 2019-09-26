@@ -1,0 +1,24 @@
+(function (factory) {
+    if (typeof module === "object" && typeof module.exports === "object") {
+        var v = factory(require, exports);
+        if (v !== undefined) module.exports = v;
+    }
+    else if (typeof define === "function" && define.amd) {
+        define(["require", "exports", "../../meta"], factory);
+    }
+})(function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    const meta_1 = require("../../meta");
+    exports.default = meta_1.default({
+        name: 'Ladino',
+        nameT: 'Ladino',
+        iso2: 'lad',
+        iso3: 'lad',
+        wiki: 'Judaeo-Spanish',
+        OT: 'JUD',
+        names: 'Dzhudezmo,Haquetiya,Judeo Spanish,Judeo-Espagnol,Judezmo,Sefardi,Sephardic,Spanyol,Haketia,Hakitia',
+        hasDetect: true
+    });
+});
+//# sourceMappingURL=lad.js.map

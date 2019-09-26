@@ -1,0 +1,1 @@
+{"version":3,"file":"oj.js","sourceRoot":"","sources":["../../../../src/Language/meta/natural/oj.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,qCAAiC;IACjC,kBAAe,cAAO,CAAC;QACrB,IAAI,EAAE,sBAAsB;QAC5B,KAAK,EAAE,6BAA6B;QACpC,IAAI,EAAE,IAAI;QACV,IAAI,EAAE,KAAK;QACX,IAAI,EAAE,KAAK;QACX,IAAI,EAAE,iBAAiB;QACvB,EAAE,EAAE,KAAK;QACT,SAAS,EAAE,IAAI;KAChB,CAAC,CAAC"}

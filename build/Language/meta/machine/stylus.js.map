@@ -1,0 +1,1 @@
+{"version":3,"file":"stylus.js","sourceRoot":"","sources":["../../../../src/Language/meta/machine/stylus.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,MAAM,IAAI,GAAG;QACZ,IAAI,EAAE,cAAc;QACpB,IAAI,EAAE,8BAA8B;QACpC,IAAI,EAAE,QAAQ;QACd,UAAU,EAAE,GAAG;QACf,UAAU,EAAE,CAAC,OAAO,CAAC;QACrB,OAAO,EAAE,QAAQ;QACjB,OAAO,EAAE,eAAe;QACxB,KAAK,EAAE,KAAK;KACZ,CAAC;IACF,kBAAe,IAAI,CAAC"}

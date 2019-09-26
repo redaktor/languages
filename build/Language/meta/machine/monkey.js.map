@@ -1,0 +1,1 @@
+{"version":3,"file":"monkey.js","sourceRoot":"","sources":["../../../../src/Language/meta/machine/monkey.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,MAAM,IAAI,GAAG;QACZ,IAAI,EAAE,mBAAmB;QACzB,IAAI,EAAE,mBAAmB;QACzB,IAAI,EAAE,aAAa;QACnB,UAAU,EAAE,GAAG;QACf,UAAU,EAAE,CAAC,SAAS,CAAC;QACvB,OAAO,EAAE,MAAM;QACf,OAAO,EAAE,eAAe;KACxB,CAAC;IACF,kBAAe,IAAI,CAAC"}
