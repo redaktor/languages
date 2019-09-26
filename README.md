@@ -5,8 +5,6 @@
 Language Detection<br>
 [![-](https://raw.githubusercontent.com/redaktor/style/master/assets/readme/lineBlue.png)](#)<br>
 
-# redaktor-languages
-
 # Know Your Language TypeScript
 
 
@@ -34,10 +32,10 @@ npm i
 node test
 ```
 
-See ./test.js
+See [./test.js](https://github.com/redaktor/languages/blob/master/test.js)<br>
 You can use it in the browser as well – <br>
-For client side use you should narrow down the default languages to those you support.
-See ./build/Language/fingerprints for all languages.
+For client side use you should narrow down the default languages to those you support.<br>
+See [./build/Language/fingerprints](https://github.com/redaktor/languages/tree/master/build/Language/fingerprints) for all languages.
 
 ###Default settings
 ```javascript
