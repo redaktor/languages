@@ -32,6 +32,6 @@
     "@dojo/shim": "^2.0.0",
     "@dojo/interfaces": "^2.0.0-beta2.2",
     "@dojo/loader": "^2.0.0-beta2.2",
-    "highlight.js": "^9.12.0"
+    "highlight.js": "^10.1.2"
   }
 }
