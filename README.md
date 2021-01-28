@@ -1,4 +1,3 @@
-<br>
 [![logo](https://raw.githubusercontent.com/redaktor/style/master/assets/readme/logo.png)](#)
 **redaktor/languages**<br>
 Language Detection<br>
